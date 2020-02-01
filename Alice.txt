@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 This is the second line for Alice.
 New new.
 Even more added text.
+=======
+Hi! I'm Alice. I'm a file someone added to this repository a while ago. Added on website.
+>>>>>>> 1defdf38910ed35906a70fa0e94e254a9c9b208f
